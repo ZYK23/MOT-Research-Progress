@@ -82,7 +82,7 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 
 
-| Title       | RMOT: Referring Multi-Object Tracking  [paper] [code]        |      |
+| Title       | RMOT: Referring Multi-Object Tracking  [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Referring_Multi-Object_Tracking_CVPR_2023_paper.pdf)] [[code](https://referringmot.github.io/)] |      |
 | ----------- | ------------------------------------------------------------ | ---- |
 | Author      | Dongming Wu  ,Wencheng Han  ,Tiancai Wang  ,Xingping Dong  ,Xiangyu Zhang  ,Jianbing Shen |      |
 | Institution | Beijing Institute of Technology  ,University of Macau  ,MEGVII Technology  ,Wuhan University  ,Beijing Academy of Artificial Intelligence |      |
