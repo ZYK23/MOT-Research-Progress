@@ -80,6 +80,15 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 <img src="image\ghost.png" alt="ghost" style="zoom:80%;" />
 
+
+
+| Title       | RMOT: Referring Multi-Object Tracking  [paper] [code]        |      |
+| ----------- | ------------------------------------------------------------ | ---- |
+| Author      | Dongming Wu  ,Wencheng Han  ,Tiancai Wang  ,Xingping Dong  ,Xiangyu Zhang  ,Jianbing Shen |      |
+| Institution | Beijing Institute of Technology  ,University of Macau  ,MEGVII Technology  ,Wuhan University  ,Beijing Academy of Artificial Intelligence |      |
+
+<img src="image\rmot.png" alt="rmot" style="zoom:80%;" />
+
 ###### ICCV
 
 ###### ECCV
