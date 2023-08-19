@@ -73,9 +73,12 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 <img src="image\motiontrack.png" alt="motiontrack" style="zoom:80%;" />
 
+| Title       | GHOST: Simple Cues Lead to a Strong Multi-Object Tracker  [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Seidenschwarz_Simple_Cues_Lead_to_a_Strong_Multi-Object_Tracker_CVPR_2023_paper.pdf)] [[code](https://github.com/dvl-tum/GHOST)] |      |
+| ----------- | ------------------------------------------------------------ | ---- |
+| Author      | Jenny Seidenschwarz, Guillem Brasó ,Victor Castro Serrano,Ismail Elezi,Laura Leal-Taixé |      |
+| Institution | Technical University of Munich,Munich Center for Machine Learning |      |
 
-
-
+<img src="image\ghost.png" alt="ghost" style="zoom:80%;" />
 
 ###### ICCV
 
