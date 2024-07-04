@@ -30,7 +30,51 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 - #### ✔Conference papers
 
-  <div align = "center">✨Publication year 2023</div>
+  
+  
+  <div align = "center">✨Publication year 2025</div>
+
+###### AAAI
+
+###### NeurIPS
+
+###### CVPR
+
+###### ICCV
+
+###### ECCV 
+
+###### ICML 
+
+###### IJCAI 
+
+###### WACV
+
+
+
+<div align = "center">✨Publication year 2024</div>
+
+###### AAAI
+
+###### NeurIPS
+
+###### CVPR
+
+###### ICCV
+
+###### ECCV 
+
+###### ICML 
+
+###### IJCAI 
+
+###### WACV
+
+
+
+
+
+<div align = "center">✨Publication year 2023</div>
 
 
 ###### AAAI
@@ -240,8 +284,9 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 <img src="image\siammot.png" alt="siammot" style="zoom:80%;" />
 
-| Title       | Track to detect and segment: An online multi-object tracker  [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Track_To_Detect_and_Segment_An_Online_Multi-Object_Tracker_CVPR_2021_paper.pdf)] [[code](https://jialianwu.com/
-projects/TraDeS.html)] |
+
+
+| Title       | Track to detect and segment: An online multi-object tracker  [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Track_To_Detect_and_Segment_An_Online_Multi-Object_Tracker_CVPR_2021_paper.pdf)] [[code](https://jialianwu.com/<br/>projects/TraDeS.html)] |
 | ----------- | ------------------------------------------------------------ |
 | Author      | Jialian Wu , Jiale Cao , Liangchen Song , Yu Wang , Ming Yang , Junsong Yuan |
 | Institution | SUNY Buffalo  ,TJU  ,Horizon Robotics                        |
@@ -492,7 +537,20 @@ projects/TraDeS.html)] |
 
 - #### ✔Pre-Printed Papers
 
-  <div align = "center">✨Publication year 2023</div>
+  <div align = "center">✨Publication year 2025</div>
+  
+  <div align = "center">✨Publication year 2024</div>
+  
+  
+
+| Title       | Bootstrapping Referring Multi-Object Tracking    [[paper](https://arxiv.org/abs/2406.05039)] [[code](https://github.com/zyn213/TempRMOT)] |
+| ----------- | ------------------------------------------------------------ |
+| Author      | Yani Zhang,  Dongming Wu,  Wencheng Han, Xingping Dong       |
+| Institution | School of Computer Science, Wuhan University;Beijing Institute of Technology;SKL-IOTSC, CIS, University of Macau |
+
+![TempRMOT](H:\目标跟踪论文更新集\github\image\TempRMOT.png)
+
+<div align = "center">✨Publication year 2023</div>
 
 | Title       | CoTracker: It is Better to Track Together  [[paper](https://arxiv.org/pdf/2307.07635.pdf)] [[code](https://co-tracker.github.io/)] |
 | ----------- | ------------------------------------------------------------ |
@@ -556,5 +614,5 @@ projects/TraDeS.html)] |
 
 
 
-你好 hollo123
+
 
