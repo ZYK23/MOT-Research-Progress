@@ -548,7 +548,7 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 | Author      | Yani Zhang,  Dongming Wu,  Wencheng Han, Xingping Dong       |
 | Institution | School of Computer Science, Wuhan University;Beijing Institute of Technology;SKL-IOTSC, CIS, University of Macau |
 
-![TempRMOT](H:\目标跟踪论文更新集\github\image\TempRMOT.png)
+<img src="H:\目标跟踪论文更新集\github\image\TempRMOT.png" alt="TempRMOT" style="zoom:80%;" />
 
 <div align = "center">✨Publication year 2023</div>
 
