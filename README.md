@@ -4,12 +4,6 @@
 
 
 
-[TOC]
-
-
-
-
-
 
 
 #### **Datasets (benchmarks)**
