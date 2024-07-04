@@ -1,8 +1,10 @@
 ## **The project compiles the latest research progress in multi-object tracking, including datasets, conference papers, and journal articles.**
 
+[TOC]
 
 
-- #### **Datasets (benchmarks)**
+
+#### **Datasets (benchmarks)**
 
 [MOTChallenge](https://motchallenge.net/) : MOT15,16,17,20
 
@@ -12,7 +14,7 @@
 
 [BDD100K](https://bdd-data.berkeley.edu/)
 
-- #### Datasets for training detector
+#### Datasets for training detector
 
 ETHZ
 
@@ -28,11 +30,33 @@ DanceTrack
 
 Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_comment-text)]
 
-- #### ✔Conference papers
+#### ✔Conference papers
 
-  
-  
-  <div align = "center">✨Publication year 2025</div>
+
+
+##### ✨Publication year 2025
+
+###### AAAI
+
+###### NeurIPS
+
+###### CVPR
+
+###### ICCV
+
+###### ECCV 
+
+###### ICML 
+
+###### IJCAI 
+
+###### WACV
+
+------
+
+
+
+##### ✨Publication year 2024
 
 ###### AAAI
 
@@ -52,29 +76,11 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 
 
-<div align = "center">✨Publication year 2024</div>
-
-###### AAAI
-
-###### NeurIPS
-
-###### CVPR
-
-###### ICCV
-
-###### ECCV 
-
-###### ICML 
-
-###### IJCAI 
-
-###### WACV
+------
 
 
 
-
-
-<div align = "center">✨Publication year 2023</div>
+##### ✨Publication year 2023
 
 
 ###### AAAI
@@ -154,7 +160,7 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 
 
-<div align = "center">✨Publication year 2022</div>
+##### ✨Publication year 2022
 
 ###### AAAI
 
@@ -224,7 +230,7 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
   
 
-  <div align = "center">✨Publication year 2021</div>
+##### ✨Publication year 2021
 
   ###### AAAI
 
@@ -314,7 +320,7 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 
 
-  <div align = "center">✨Publication year 2020</div>
+##### ✨Publication year 2020
 
   ###### AAAI
 
@@ -350,9 +356,25 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 
 
-- #### ✔Journal Papers
+#### ✔Journal Papers
 
-  <div align = "center">✨Publication year 2023</div>
+##### ✨Publication year 2025
+
+
+
+------
+
+
+
+##### ✨Publication year 2024
+
+
+
+------
+
+
+
+##### ✨Publication year 2023
 
 
 ##### 👏Publisher IEEE
@@ -417,7 +439,7 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 
 
-<div align = "center">✨Publication year 2022</div>
+##### ✨Publication year 2022
 
 ##### 		  👏Publisher IEEE
 
@@ -460,7 +482,7 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 
 
-<div align = "center">✨Publication year 2021</div>
+##### ✨Publication year 2021
 
 ##### 		 👏Publisher IEEE
 
@@ -493,7 +515,7 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 ##### 		 
 
-<div align = "center">✨Publication year 2020</div>
+##### ✨Publication year 2020
 
 ##### 		 👏Publisher IEEE
 
@@ -535,13 +557,19 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 
 
-- #### ✔Pre-Printed Papers
+#### ✔Pre-Printed Papers
 
-  <div align = "center">✨Publication year 2025</div>
-  
-  <div align = "center">✨Publication year 2024</div>
-  
-  
+##### ✨Publication year 2025
+
+
+
+------
+
+
+
+##### ✨Publication year 2024
+
+
 
 | Title       | Bootstrapping Referring Multi-Object Tracking    [[paper](https://arxiv.org/abs/2406.05039)] [[code](https://github.com/zyn213/TempRMOT)] |
 | ----------- | ------------------------------------------------------------ |
@@ -550,7 +578,13 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 <img src="image\TempRMOT.png" alt="TempRMOT" style="zoom:80%;" />
 
-<div align = "center">✨Publication year 2023</div>
+
+
+------
+
+
+
+##### ✨Publication year 2023
 
 | Title       | CoTracker: It is Better to Track Together  [[paper](https://arxiv.org/pdf/2307.07635.pdf)] [[code](https://co-tracker.github.io/)] |
 | ----------- | ------------------------------------------------------------ |
@@ -576,7 +610,7 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 
 
-<div align = "center">✨Publication year 2022</div>
+##### ✨Publication year 2022
 
 | Title       | BoT-SORT: Robust Associations Multi-Pedestrian Tracking  [[paper](https://arxiv.org/pdf/2206.14651.pdf)] [[code](https://github.com/NirAharon/BOT-SORT)] |
 | ----------- | ------------------------------------------------------------ |
@@ -591,7 +625,7 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 
 
-<div align = "center">✨Publication year 2021</div>
+##### ✨Publication year 2021
 
 
 
@@ -610,7 +644,7 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 
 
-<div align = "center">✨Publication year 2020</div>
+##### ✨Publication year 2020
 
 
 
