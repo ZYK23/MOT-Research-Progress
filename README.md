@@ -66,6 +66,15 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 ###### CVPR
 
+| Title       | iKUN: Speak to Trackers without Retraining [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Du_iKUN_Speak_to_Trackers_without_Retraining_CVPR_2024_paper.pdf)] [[code](https://github.com/dyhBUPT/iKUN  )] |
+| ----------- | ------------------------------------------------------------ |
+| Author      | Yunhao Du, Cheng Lei, Zhicheng Zhao, Fei Su                  |
+| Institution | The school of Artificial Intelligence, Beijing University of Posts and Telecommunications |
+
+<img src="image\IKUU.png" alt="IKUU" style="zoom:80%;" />
+
+
+
 ###### ICCV
 
 ###### ECCV 
