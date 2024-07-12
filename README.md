@@ -64,6 +64,8 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 ###### NeurIPS
 
+
+
 ###### CVPR
 
 | Title       | iKUN: Speak to Trackers without Retraining [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Du_iKUN_Speak_to_Trackers_without_Retraining_CVPR_2024_paper.pdf)] [[code](https://github.com/dyhBUPT/iKUN  )] |
@@ -97,6 +99,15 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 ###### AAAI
 
 ###### NeurIPS
+
+| Title       | Type-to-Track: Retrieve Any Object via Prompt-based Tracking   [[paper](https://arxiv.org/abs/2305.13495)] [[code](https://uark-cviu.github.io/Type-to-Track/)] |
+| ----------- | ------------------------------------------------------------ |
+| Author      | Pha Nguyen1, Kha Gia Quach2, Kris Kitani3, Khoa Luu1         |
+| Institution | 1 CVIU Lab, University of Arkansas 2 pdActive Inc. 3 Robotics Institute, Carnegie Mellon University |
+
+<img src="image\type-to-track、.png" alt="type-to-track、" style="zoom:80%;" />
+
+
 
 ###### CVPR
 
