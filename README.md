@@ -589,6 +589,17 @@ Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_
 
 <img src="image\TempRMOT.png" alt="TempRMOT" style="zoom:80%;" />
 
+| Title       | MLS-Track: Multilevel Semantic Interaction in RMOT      [[paper](https://arxiv.org/pdf/2404.12031)] [code] |
+| ----------- | ------------------------------------------------------------ |
+| Author      | Zeliang Ma1, Song Yang1, Zhe Cui1,2, Zhicheng Zhao1,2, Fei Su1,2, Delong<br/>Liu1, and Jingyu Wang3 |
+| Institution | 1 Beijing University of Posts and Telecommunications<br/>2 Beijing Key Laboratory of Network System and Network Culture, China<br/>3 McGill University |
+
+<img src="image\mlstrack.png" alt="mlstrack" style="zoom:80%;" />
+
+
+
+
+
 
 
 ------
