@@ -16,7 +16,7 @@
 
 [BDD100K](https://bdd-data.berkeley.edu/)
 
-#### Datasets for training detector
+#### Datasets for training detector （Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_comment-text)]）
 
 ETHZ
 
@@ -30,7 +30,7 @@ MOT20
 
 DanceTrack
 
-Referenced papers [[paper](https://arxiv.org/pdf/2110.06864.pdf?trk=public_post_comment-text)]
+
 
 #### ✔Conference papers
 
