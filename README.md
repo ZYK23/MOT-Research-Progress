@@ -607,7 +607,14 @@ DanceTrack
 
 <img src="image\mlstrack.png" alt="mlstrack" style="zoom:80%;" />
 
+| Title       | EchoTrack: Auditory Referring Multi-Object Tracking for Autonomous Driving        [[paper](https://arxiv.org/pdf/2402.18302)] [[code](https://github.com/lab206/EchoTrack)] |
+| ----------- | ------------------------------------------------------------ |
+| Author      | Jiacheng Lin1,∗, Jiajun Chen2,3,∗, Kunyu Peng4,∗, Xuan He1, Zhiyong Li1,2,3,†,<br/>Rainer Stiefelhagen4, and Kailun Yang2,3,† |
+| Institution | 1J. Lin, X. He, and Z. Li are with the College of Computer Science and<br/>Electronic Engineering, Hunan University, Changsha 410082, China.<br/>2J. Chen, Z. Li, and K. Yang are with the School of Robotics, Hunan<br/>University, Changsha 410012, China.<br/>3J. Chen, Z. Li, and K. Yang are also with the National Engineering<br/>Research Center of Robot Visual Perception and Control Technology, Hunan<br/>University, Changsha 410082, China.<br/>4K. Peng and R. Stiefelhagen are with the Institute for Robotics and Anthropomatics, Karlsruhe Institute of Technology, 76131 Karlsruhe, Germany |
 
+
+
+<img src="image\echotrack.png" alt="echotrack" style="zoom:80%;" />
 
 
 
