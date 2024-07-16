@@ -618,6 +618,17 @@ DanceTrack
 
 
 
+| Title       | LaMOT: Language-Guided Multi-Object Tracking      [[paper](https://arxiv.org/pdf/2406.08324)] [[code]( https://github.com/Nathan-Li123/LaMOT)] |
+| ----------- | ------------------------------------------------------------ |
+| Author      | Yunhao Li1,2, Xiaoqiong Liu3, Luke Liu4, Heng Fan3,†, Libo Zhang2,†,∗ |
+| Institution | 1Institute of Software Chinese Academy of Science 2University of Chinese Academy of Science |
+
+<img src="image\lamot.png" alt="lamot" style="zoom:80%;" />
+
+
+
+
+
 
 
 ------
