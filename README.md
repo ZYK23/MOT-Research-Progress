@@ -90,6 +90,13 @@ DanceTrack
 
 <img src="image\IKUU.png" alt="IKUU" style="zoom:80%;" />
 
+| Title       | Delving into the Trajectory Long-tail Distribution for Muti-object Tracking   [paper] [code] |
+| ----------- | ------------------------------------------------------------ |
+| Author      | Sijia Chen * En Yu ∗ Jinyang Li Wenbing Tao †                |
+| Institution | Huazhong University of Science and Technology, China         |
+
+<img src="image\ltmot.png" alt="ltmot" style="zoom:80%;" />
+
 
 
 ###### ICCV
@@ -227,6 +234,15 @@ DanceTrack
 | Institution | University of Washington，AWS AI Labs                        |
 
 <img src="image\memot.png" alt="memot" style="zoom:80%;" />
+
+| Title      | Opening up Open World Tracking   [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Opening_Up_Open_World_Tracking_CVPR_2022_paper.pdf)] [[code](https://openworldtracking.github.io/)] |
+| ---------- | ------------------------------------------------------------ |
+| Author     | Yang Liu1;* Idil Esen Zulfikar2;* Jonathon Luiten2;3;* Achal Dave3;* |
+| Instituton | 1 Technical University of Munich, Germany 2RWTH Aachen University, Germany 3Carnegie Mellon University |
+
+<img src="image\tao-ow.png" alt="tao-ow" style="zoom:80%;" />
+
+
 
 ###### ICCV
 
