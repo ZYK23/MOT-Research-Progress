@@ -90,7 +90,7 @@ DanceTrack
 
 <img src="image\IKUU.png" alt="IKUU" style="zoom:80%;" />
 
-| Title       | Delving into the Trajectory Long-tail Distribution for Muti-object Tracking   [paper] [code] |
+| Title       | Delving into the Trajectory Long-tail Distribution for Muti-object Tracking   [[paper](https://arxiv.org/abs/2403.04700)] [[code]( https://github.com/chensi-jia/Trajectory-Long-tail-Distribution-for-MOT)] |
 | ----------- | ------------------------------------------------------------ |
 | Author      | Sijia Chen * En Yu ∗ Jinyang Li Wenbing Tao †                |
 | Institution | Huazhong University of Science and Technology, China         |
