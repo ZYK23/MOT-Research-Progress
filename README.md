@@ -97,6 +97,13 @@ DanceTrack
 
 <img src="image\ltmot.png" alt="ltmot" style="zoom:80%;" />
 
+| Title       | DeconfuseTrack: Dealing with Confusion for Multi-Object Tracking     [[paper]()] [code] |
+| ----------- | ------------------------------------------------------------ |
+| Author      | Cheng Huang*, Shoudong Han* † , Mengyu He, Wenbo Zheng, Yuhao Wei |
+| Institution | National Key Laboratory of Multispectral Information Intelligent Processing Technology,School of Artificial Intelligence and Automation, Huazhong University of Science and Technology |
+
+<img src="image\deconfusetrack.png" alt="deconfusetrack" style="zoom:80%;" />
+
 
 
 ###### ICCV
